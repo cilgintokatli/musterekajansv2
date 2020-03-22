@@ -27,8 +27,8 @@
         </h2>
       </nav>
     </div>
-  </template>
 </template>
+
 
 <script>
 export default {

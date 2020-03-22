@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <div class="wrapper">
-      <header>logo</header>
+      <header>
+        <h1 class="logo">Müşterek</h1>
+      </header>
       <div class="slides">
         <div
           v-for="(item, index) in slides"
@@ -25,7 +27,7 @@
         </h2>
       </nav>
     </div>
-  </div>
+  </template>
 </template>
 
 <script>

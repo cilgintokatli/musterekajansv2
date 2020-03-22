@@ -2,7 +2,7 @@
   <div id="app">
     <div class="wrapper">
       <header>
-        <h1 class="logo">Müşterek</h1>
+        <h1 class="logo">müşterek ajans</h1>
       </header>
       <div class="slides">
         <div
@@ -27,8 +27,8 @@
         </h2>
       </nav>
     </div>
+  </div>
 </template>
-
 
 <script>
 export default {

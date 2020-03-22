@@ -35,39 +35,46 @@ export default {
     return {
       slides: [
         {
-          title: "new york",
+          title: "video kurgu",
           id: 1,
           src:
             "https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
           desc: "deneme 1"
         },
         {
-          title: "paris",
+          title: "web tasarım",
           id: 2,
           src:
             "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80",
           desc: "deneme 2"
         },
         {
-          title: "london",
+          title: "grafik tasarım",
           id: 3,
           src:
             "https://images.unsplash.com/photo-1474606030380-107829a22fc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
           desc: "deneme 3"
         },
         {
-          title: "istanbul",
+          title: "sosyal medya",
           id: 4,
           src:
             "https://images.unsplash.com/photo-1516710505574-0245114a1093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
           desc: "deneme 4"
         },
         {
-          title: "tokyo",
+          title: "baskı",
           id: 5,
           src:
             "https://images.unsplash.com/photo-1494587416117-f102a2ac0a8d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
           desc: "deneme 5"
+        },
+        {
+          title: "iletişim",
+          id: 6,
+          src:
+            "https://images.unsplash.com/photo-1494587416117-f102a2ac0a8d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+          desc: "iletişim sayfası"
         }
       ],
       selected: 1
